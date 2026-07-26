@@ -135,3 +135,8 @@ flutter run
 ## 📄 License
 
 This project is developed for educational purposes.
+## 📱 Screenshots
+
+### 🏠 Dashboard
+
+![Dashboard](screenshots/dashboard.png)
