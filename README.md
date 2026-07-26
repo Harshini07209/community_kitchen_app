@@ -21,18 +21,6 @@ A modern **Flutter-based Community Kitchen Management System** designed to help 
 - 🎨 Modern Material 3 UI
 - 📱 Responsive Design
 
----
-
-
-
-## 🎥 Project Demo
-
-Watch the complete working demonstration here:
-
-▶️ **[Community Kitchen Demo Video]((https://drive.google.com/file/d/19RLvDPTrKtqyipJMf4e6YoYoI7w5E72A/view?usp=drive_link))**
-
----
-
 ## 🛠️ Technologies Used
 
 | Technology | Purpose |
@@ -130,3 +118,8 @@ Please consider giving it a ⭐ on GitHub!
 ### 📄 License
 
 This project is developed for **educational purposes**.
+## 🎥 Project Demonstration
+
+Click the image below to watch the complete application demo.
+
+[![Community Kitchen Demo] https://drive.google.com/file/d/19RLvDPTrKtqyipJMf4e6YoYoI7w5E72A/view?usp=drive_link]
