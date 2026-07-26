@@ -189,3 +189,9 @@ SIH Project | Flutter Application
 # ❤️ Project Impact
 
 > "Using technology to help communities serve better."
+> # 🎥 Project Demo
+
+Watch the demo video here:
+
+[▶️ Community Kitchen Demo Video](c:\Users\mohak\AppData\Local\Packages\Microsoft.ScreenSketch_8wekyb3d8bbwe\TempState\Recordings\20260726-0927-26.6448449.mp4)
+
