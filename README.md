@@ -166,25 +166,6 @@ Provides:
 ## Harshini Satheesh
 
 SIH Project | Flutter Application
-# 📱 Application Screenshots
-
-## Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-## Add Meal
-![Add Meal](screenshots/addrecords.png)
-
-## Records
-![Records](screenshots/communityimpact.png)
-
-## Inventory
-![Inventory](screenshots/inventory.png)
-
-## Reports
-![Reports](screenshots/actions.png)
-
-
----
 
 # ❤️ Project Impact
 
