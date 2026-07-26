@@ -1,142 +1,186 @@
-# 🍽️ Community Kitchen Management App
+# 🍲 Community Kitchen Management System
 
-## 📌 Overview
+<p align="center">
 
-The Community Kitchen Management App is a Flutter-based application developed to help community kitchens efficiently manage daily meal distribution, inventory, and meal records. The application provides an easy-to-use interface for recording meals served, tracking food inventory, and viewing reports.
+<img src="https://img.shields.io/badge/Flutter-App-02569B?style=for-the-badge&logo=flutter"/>
+<img src="https://img.shields.io/badge/Dart-Language-0175C2?style=for-the-badge&logo=dart"/>
+<img src="https://img.shields.io/badge/Database-SQLite-003B57?style=for-the-badge&logo=sqlite"/>
 
----
+</p>
 
-## 🎯 Objectives
+<h2 align="center">
+🌱 Digital Solution for Smart Community Kitchen Management
+</h2>
 
-- Simplify meal record management.
-- Track daily food inventory.
-- Generate meal reports.
-- Reduce manual paperwork.
-- Improve operational efficiency.
-
----
-
-## ✨ Features
-
-### 📊 Dashboard
-- Displays an overview of the kitchen.
-- Quick access to all modules.
-- Statistics cards.
-
-### 🍛 Add Meal Record
-- Select meal type.
-- Choose serving date.
-- Enter meals served.
-- Add volunteer name.
-- Add notes.
-- Save meal records.
-
-### 📋 Records
-- View all saved meal records.
-- Displays meal details.
-- Delete records.
-
-### 📦 Inventory Management
-- View available stock.
-- Increase stock.
-- Reduce stock.
-- Low stock indicator.
-
-### 📈 Reports
-- Total meals served.
-- Breakfast count.
-- Lunch count.
-- Dinner count.
 
 ---
 
-## 🛠️ Technologies Used
+## 📌 Project Overview
 
-- Flutter
-- Dart
-- Material Design
-- In-Memory Storage (Demo Version)
+Community Kitchen Management System is a Flutter-based application designed to help community kitchens efficiently manage their daily activities.
 
-> Note: The current demo uses temporary in-memory storage for browser compatibility. It can be extended to SQLite or Firebase for persistent storage.
+The application provides a simple digital platform to manage:
+
+🍲 Meal records  
+📦 Food inventory  
+📊 Reports and insights  
+👥 Community service activities  
+
 
 ---
 
-## 📁 Project Structure
+# 🎯 Problem Statement
+
+Community kitchens often face challenges such as:
+
+❌ Manual record maintenance  
+❌ Difficulty tracking food inventory  
+❌ Lack of proper reporting  
+❌ Inefficient resource management  
+
+
+---
+
+# 💡 Proposed Solution
+
+Our application provides a digital management system that helps kitchens:
+
+✅ Maintain meal records  
+✅ Track available inventory  
+✅ Monitor food distribution  
+✅ Generate useful reports  
+
+
+---
+
+# 🚀 Features
+
+## 🏠 Dashboard
+
+The dashboard provides an overview of kitchen activities:
+
+- 🍲 Total meals served
+- 👥 People benefited
+- 📦 Inventory status
+- ⚡ Quick access actions
+
+
+---
+
+## 🍲 Meal Record Management
+
+Features:
+
+✅ Add daily meal records  
+✅ Select meal type:
+- 🍳 Breakfast
+- 🍛 Lunch
+- 🍽 Dinner
+
+✅ Store volunteer details  
+✅ Maintain meal history
+
+
+---
+
+## 📦 Inventory Management
+
+Features:
+
+✅ View available food items  
+✅ Increase stock quantity  
+✅ Reduce stock quantity  
+✅ Identify low-stock items
+
+
+---
+
+## 📊 Reports
+
+Provides:
+
+📈 Total meals served statistics
+
+🍲 Meal type analysis
+
+📋 Kitchen activity summary
+
+
+---
+
+# 🛠️ Technology Stack
+
+| Category | Technology |
+|---|---|
+| Frontend | Flutter |
+| Programming Language | Dart |
+| Database | SQLite |
+| Development Tool | VS Code |
+| Version Control | GitHub |
+
+
+---
+
+# 🏗️ Application Architecture
 
 ```
-lib/
-│
-├── config/
-├── database/
-├── models/
-│   ├── meal_record.dart
-│   └── inventory_item.dart
-│
-├── services/
-│   ├── meal_service.dart
-│   └── inventory_service.dart
-│
-├── screens/
-│   ├── dashboard/
-│   ├── add_record/
-│   ├── records/
-│   ├── inventory/
-│   └── reports/
-│
-├── widgets/
-└── main.dart
+              User
+
+                ↓
+
+        Flutter Application
+
+                ↓
+
+             UI Screens
+
+                ↓
+
+          Service Layer
+
+                ↓
+
+          SQLite Database
 ```
 
----
-
-## 🚀 How to Run
-
-1. Clone the repository.
-2. Open the project in Visual Studio Code.
-3. Run:
-
-```bash
-flutter pub get
-flutter run
-```
 
 ---
 
-## 📸 Application Modules
+# 📱 Screenshots
 
-- Dashboard
-- Add Meal
-- Meal Records
-- Inventory
-- Reports
+## 🏠 Dashboard
 
----
+<img src="screenshots/dashboard.png" width="500"/>
 
-## 🔮 Future Enhancements
-
-- User Authentication
-- SQLite/Firebase Database
-- QR Code Attendance
-- PDF Report Generation
-- Search & Filter Records
-- Notifications
-- Cloud Backup
 
 ---
 
-## 👨‍💻 Developed Using
+# 🔮 Future Enhancements
 
-- Flutter SDK
-- Dart Programming Language
-- Visual Studio Code
+🚀 User authentication
+
+☁ Cloud database integration
+
+🔔 Low stock notifications
+
+🤖 AI-based food demand prediction
+
+📊 Advanced analytics dashboard
+
+📍 Multi-community kitchen support
+
 
 ---
 
-## 📄 License
+# 👩‍💻 Developed By
 
-This project is developed for educational purposes.
-## 📱 Screenshots
+## Harshini Satheesh
 
-### 🏠 Dashboard
+SIH Project | Flutter Application
 
-![Dashboard](screenshots/dashboard.png)
+
+---
+
+# ❤️ Project Impact
+
+> "Using technology to help communities serve better."
