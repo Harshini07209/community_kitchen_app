@@ -174,5 +174,5 @@ SIH Project | Flutter Application
 
 Watch the demo video here:
 
-[▶️ Community Kitchen Demo Video](c:\Users\mohak\AppData\Local\Packages\Microsoft.ScreenSketch_8wekyb3d8bbwe\TempState\Recordings\20260726-0927-26.6448449.mp4)
+[▶️ Community Kitchen Demo Video](https://drive.google.com/file/d/19RLvDPTrKtqyipJMf4e6YoYoI7w5E72A/view?usp=drive_link)]
 
