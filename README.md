@@ -144,17 +144,6 @@ Provides:
 ```
 
 
----
-
-# 📱 Screenshots
-
-## 🏠 Dashboard
-
-<img src="screenshots/dashboard.png" width="500"/>
-
-
----
-
 # 🔮 Future Enhancements
 
 🚀 User authentication
