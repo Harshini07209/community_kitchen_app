@@ -23,43 +23,13 @@ A modern **Flutter-based Community Kitchen Management System** designed to help 
 
 ---
 
-## 📸 Application Screenshots
 
-### 🏠 Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
----
-
-### 🍛 Add Meal Record
-
-![Add Meal](screenshots/add_meal.png)
-
----
-
-### 📋 Records
-
-![Records](screenshots/records.png)
-
----
-
-### 📦 Inventory
-
-![Inventory](screenshots/inventory.png)
-
----
-
-### 📊 Reports
-
-![Reports](screenshots/reports.png)
-
----
 
 ## 🎥 Project Demo
 
 Watch the complete working demonstration here:
 
-▶️ **[Community Kitchen Demo Video](YOUR_GOOGLE_DRIVE_VIDEO_LINK)**
+▶️ **[Community Kitchen Demo Video]((https://drive.google.com/file/d/19RLvDPTrKtqyipJMf4e6YoYoI7w5E72A/view?usp=drive_link))**
 
 ---
 
@@ -160,9 +130,3 @@ Please consider giving it a ⭐ on GitHub!
 ### 📄 License
 
 This project is developed for **educational purposes**.
-> # 🎥 Project Demo
-
-Watch the demo video here:
-
-[▶️ Community Kitchen Demo Video](https://drive.google.com/file/d/19RLvDPTrKtqyipJMf4e6YoYoI7w5E72A/view?usp=drive_link)]
-
